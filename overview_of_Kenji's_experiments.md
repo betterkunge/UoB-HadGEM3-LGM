@@ -14,7 +14,9 @@
 | cj986  | - | full LGM simulation for CMIP6-PMIP4. v1 from cj841 |archer2|
 | co328  | - | full LGM simulation, crashed every 2-5 years from cj986, the bathymetry of antarctica ocean is set as LGM|archer2|
 | cv921  | - | HadGEM3-GC3.1 N96ORCA1 - the LGM full simulation for CMIP6-PMIP4. v7，modified based on cq703, **uses the modern bathymetry of antarctica ocean**  | archer2 |
+| cz006  | - | HadGEM3-GC3.1 - the LGM simulation after ARCHER2 OS upgrade |archer2|
 | db646  | - | HadGEM3-GC3.1 - the LGM simulation with the ozone remapping scheme after ARCHER2 OS upgrade |archer2|
+| dc417  | - | HadGEM3-GC3.1 - a copy of cz006. Archived to tje elastic tape |archer2|
 
 
 diff -ur cj788 cj345
