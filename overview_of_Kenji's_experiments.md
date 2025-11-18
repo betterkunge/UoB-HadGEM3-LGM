@@ -16,7 +16,7 @@
 | cv921  | - | HadGEM3-GC3.1 N96ORCA1 - the LGM full simulation for CMIP6-PMIP4. v7，modified based on cq703, **uses the modern bathymetry of antarctica ocean**  | archer2 |
 | cz006  | - | HadGEM3-GC3.1 - the LGM simulation after ARCHER2 OS upgrade |archer2|
 | db646  | - | HadGEM3-GC3.1 - the LGM simulation with the ozone remapping scheme after ARCHER2 OS upgrade |archer2|
-| dc417  | - | HadGEM3-GC3.1 - a copy of cz006. Archived to tje elastic tape |archer2|
+| dc617  | - | HadGEM3-GC3.1 - a copy of cz006. Archived to the elastic tape, batch number - 98204 |archer2|
 
 
 diff -ur cj788 cj345
